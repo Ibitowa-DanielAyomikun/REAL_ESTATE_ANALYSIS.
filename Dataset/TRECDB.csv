@@ -1,0 +1,501 @@
+Product_Name,Quantity,Price,Plots,Revenue,Date,Agent_Name,Payment_Plan,Location
+KINGS COURT,250 SQM.,"2,500,000.00",7,"17,500,000.00",2026-01-01,Mr Michael,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,000,000.00",2,"10,000,000.00",2026-01-01,Ms Grace,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",6,"33,000,000.00",2026-01-01,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"4,000,000.00",3,"12,000,000.00",2026-01-02,Ms Grace,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,18000 SQM,"32,000,000.00",1,"32,000,000.00",2026-01-03,Ms Favour,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",3,"3,600,000.00",2026-01-04,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,000,000.00",2,"4,000,000.00",2026-01-05,Mr Michael,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,500 SQM,"3,500,000.00",2,"7,000,000.00",2026-01-05,Mr Joshua,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,000,000.00",8,"24,000,000.00",2026-01-06,Ms Blessing,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",3,"7,500,000.00",2026-01-07,Mr Michael,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,500,000.00",7,"38,500,000.00",2026-01-08,Mr Emmanuel,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"3,500,000.00",3,"10,500,000.00",2026-01-09,Mr Joshua,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,200,000.00",3,"3,600,000.00",2026-01-11,Mr Tofunmi,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,000,000.00",1,"2,000,000.00",2026-01-13,Mr Michael,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,6000 SQM,"9,000,000.00",4,"36,000,000.00",2026-01-14,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",3,"3,600,000.00",2026-01-14,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"12,000,000.00",4,"48,000,000.00",2026-01-15,Mr Tofunmi,Installment,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"3,500,000.00",3,"10,500,000.00",2026-01-15,Ms Blessing,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,500 SQM,"1,500,000.00",4,"6,000,000.00",2026-01-16,Mr Tofunmi,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",5,"40,000,000.00",2026-01-16,Mr Joshua,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,20 years,"8,000,000.00",1,"8,000,000.00",2026-01-20,Ms Grace,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,10 years,"7,000,000.00",7,"49,000,000.00",2026-01-21,Ms Grace,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,9000 SQM,"17,000,000.00",7,"119,000,000.00",2026-01-21,Ms Favour,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",4,"4,800,000.00",2026-01-21,Ms Victoria,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",8,"85,600,000.00",2026-01-22,Mr David,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"32,000,000.00",6,"192,000,000.00",2026-01-22,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",2,"16,000,000.00",2026-01-22,Ms Grace,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,3000 SQM,"5,500,000.00",4,"22,000,000.00",2026-01-24,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,500,000.00",1,"3,500,000.00",2026-01-25,Mr Peter,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"17,000,000.00",6,"102,000,000.00",2026-01-25,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,000,000.00",5,"10,000,000.00",2026-01-26,Ms Favour,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,500,000.00",2,"7,000,000.00",2026-01-27,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",5,"30,000,000.00",2026-01-27,Mr Samuel,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"10,700,000.00",3,"32,100,000.00",2026-01-28,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,500,000.00",1,"3,500,000.00",2026-01-28,Mr Alex,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,000,000.00",2,"4,000,000.00",2026-01-29,Mr Daniel,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,18000 SQM,"32,000,000.00",10,"320,000,000.00",2026-01-29,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",3,"32,100,000.00",2026-02-01,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,000,000.00",2,"4,000,000.00",2026-02-02,Ms Esther,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,500,000.00",1,"3,500,000.00",2026-02-03,Ms Esther,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",1,"1,500,000.00",2026-02-04,Mr Samuel,Installment,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,Lifetime Lease,"12,000,000.00",1,"12,000,000.00",2026-02-04,Ms Blessing,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,9000 SQM,"17,000,000.00",3,"51,000,000.00",2026-02-05,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",7,"56,000,000.00",2026-02-05,Ms Favour,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"10,700,000.00",1,"10,700,000.00",2026-02-05,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",4,"3,600,000.00",2026-02-05,Ms Deborah,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",5,"50,000,000.00",2026-02-05,Ms Victoria,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,1500 SQM,"3,000,000.00",6,"18,000,000.00",2026-02-06,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"7,000,000.00",6,"42,000,000.00",2026-02-06,Ms Deborah,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"9,000,000.00",7,"63,000,000.00",2026-02-07,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",1,"34,000,000.00",2026-02-08,Mr Alex,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",3,"18,000,000.00",2026-02-09,Mr Peter,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,18000 SQM,"34,000,000.00",1,"34,000,000.00",2026-02-10,Mr Tofunmi,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"17,000,000.00",1,"17,000,000.00",2026-02-11,Mr Samuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",2,"1,800,000.00",2026-02-11,Mr David,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",4,"10,000,000.00",2026-02-11,Ms Grace,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,18000 SQM,"34,000,000.00",4,"136,000,000.00",2026-02-11,Mr Peter,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",7,"63,000,000.00",2026-02-11,Mr Alex,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,500,000.00",1,"3,500,000.00",2026-02-13,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"4,000,000.00",5,"20,000,000.00",2026-02-13,Ms Grace,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,250 SQM,"900,000.00",1,"900,000.00",2026-02-13,Ms Deborah,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",6,"54,000,000.00",2026-02-14,Ms Grace,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",7,"10,500,000.00",2026-02-14,Mr Michael,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,500 SQM,"3,500,000.00",7,"24,500,000.00",2026-02-15,Ms Esther,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,500 SQM,"4,000,000.00",3,"12,000,000.00",2026-02-16,Ms Victoria,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,200,000.00",6,"7,200,000.00",2026-02-16,Mr Michael,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,500,000.00",2,"5,000,000.00",2026-02-17,Ms Esther,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,250 SQM,"900,000.00",1,"900,000.00",2026-02-17,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",1,"900,000.00",2026-02-19,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",1,"34,000,000.00",2026-02-20,Ms Victoria,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",1,"1,500,000.00",2026-02-20,Mr Tofunmi,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,500,000.00",1,"1,500,000.00",2026-02-20,Ms Victoria,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,500 SQM,"1,200,000.00",1,"1,200,000.00",2026-02-20,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",6,"7,200,000.00",2026-02-20,Ms Blessing,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",4,"4,800,000.00",2026-02-21,Mr David,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,000,000.00",6,"30,000,000.00",2026-02-21,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"17,000,000.00",3,"51,000,000.00",2026-02-22,Mr Emmanuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",1,"1,200,000.00",2026-02-22,Ms Blessing,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",1,"2,500,000.00",2026-02-24,Mr Peter,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,500,000.00",6,"15,000,000.00",2026-02-24,Ms Victoria,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,18000 SQM,"32,000,000.00",5,"160,000,000.00",2026-02-25,Mr Daniel,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"12,000,000.00",5,"60,000,000.00",2026-02-25,Ms Esther,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,9000 SQM,"17,000,000.00",3,"51,000,000.00",2026-02-25,Mr David,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"12,000,000.00",8,"96,000,000.00",2026-02-25,Mr Michael,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"9,000,000.00",3,"27,000,000.00",2026-02-27,Ms Favour,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",10,"12,000,000.00",2026-02-28,Mr David,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"7,000,000.00",5,"35,000,000.00",2026-02-28,Mr Peter,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,18000 SQM,"34,000,000.00",4,"136,000,000.00",2026-02-28,Ms Victoria,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,000,000.00",4,"8,000,000.00",2026-03-03,Ms Victoria,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,6000 SQM,"10,700,000.00",2,"21,400,000.00",2026-03-04,Ms Esther,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"7,000,000.00",3,"21,000,000.00",2026-03-04,Mr David,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,18000 SQM,"32,000,000.00",2,"64,000,000.00",2026-03-04,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",4,"36,000,000.00",2026-03-05,Mr Emmanuel,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",2,"2,400,000.00",2026-03-05,Ms Victoria,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,20 years,"7,000,000.00",3,"21,000,000.00",2026-03-06,Ms Blessing,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"4,000,000.00",2,"8,000,000.00",2026-03-06,Ms Victoria,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,6000 SQM,"10,700,000.00",5,"53,500,000.00",2026-03-07,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",2,"12,000,000.00",2026-03-08,Ms Blessing,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"3,500,000.00",4,"14,000,000.00",2026-03-08,Mr Michael,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,000,000.00",6,"12,000,000.00",2026-03-09,Mr Tofunmi,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,000,000.00",1,"2,000,000.00",2026-03-10,Ms Grace,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,18000 SQM,"34,000,000.00",3,"102,000,000.00",2026-03-11,Mr Peter,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,500,000.00",4,"14,000,000.00",2026-03-11,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",5,"12,500,000.00",2026-03-12,Ms Blessing,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,9000 SQM,"17,000,000.00",1,"17,000,000.00",2026-03-12,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",5,"3,750,000.00",2026-03-12,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,000,000.00",6,"18,000,000.00",2026-03-16,Mr Alex,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"3,500,000.00",4,"14,000,000.00",2026-03-16,Mr Alex,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,500,000.00",8,"12,000,000.00",2026-03-17,Mr Daniel,Installment,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",2,"20,000,000.00",2026-03-17,Mr Joshua,Outright Plan,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,10 years,"7,000,000.00",3,"21,000,000.00",2026-03-18,Ms Favour,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",8,"80,000,000.00",2026-03-18,Ms Deborah,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,1500 SQM,"3,000,000.00",1,"3,000,000.00",2026-03-18,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,000,000.00",3,"6,000,000.00",2026-03-18,Mr David,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,000,000.00",5,"10,000,000.00",2026-03-19,Mr David,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,18000 SQM,"34,000,000.00",3,"102,000,000.00",2026-03-19,Mr Tofunmi,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",1,"8,000,000.00",2026-03-20,Mr Emmanuel,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,10 years,"7,000,000.00",4,"28,000,000.00",2026-03-20,Mr David,Installment,Abeokuta Alabata FUNAAB
+KINGS COURT,250 SQM,"2,000,000.00",2,"4,000,000.00",2026-03-20,Ms Blessing,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",6,"60,000,000.00",2026-03-21,Mr Alex,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,250 SQM,"900,000.00",8,"7,200,000.00",2026-03-21,Ms Favour,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",2,"16,000,000.00",2026-03-21,Mr Joshua,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,9000 SQM,"19,000,000.00",5,"95,000,000.00",2026-03-21,Ms Favour,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",2,"1,800,000.00",2026-03-21,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",10,"12,000,000.00",2026-03-21,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,000,000.00",4,"20,000,000.00",2026-03-22,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",2,"2,400,000.00",2026-03-22,Mr David,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",5,"170,000,000.00",2026-03-23,Ms Grace,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",2,"21,400,000.00",2026-03-23,Mr Emmanuel,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"7,000,000.00",1,"7,000,000.00",2026-03-23,Ms Victoria,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,10 years,"6,000,000.00",5,"30,000,000.00",2026-03-23,Mr Emmanuel,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,3000 SQM,"5,500,000.00",2,"11,000,000.00",2026-03-24,Mr Peter,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,000,000.00",1,"2,000,000.00",2026-03-24,Mr Samuel,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,250 SQM,"750,000.00",1,"750,000.00",2026-03-24,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",2,"68,000,000.00",2026-03-25,Mr Alex,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,000,000.00",5,"10,000,000.00",2026-03-26,Mr Peter,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,500 SQM,"3,500,000.00",5,"17,500,000.00",2026-03-26,Mr Emmanuel,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,500,000.00",7,"38,500,000.00",2026-03-26,Ms Grace,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,500,000.00",8,"28,000,000.00",2026-03-26,Ms Grace,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"32,000,000.00",7,"224,000,000.00",2026-03-26,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",1,"9,000,000.00",2026-03-28,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",3,"30,000,000.00",2026-03-30,Mr Tofunmi,Outright Plan,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",1,"10,000,000.00",2026-03-30,Ms Deborah,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"10,700,000.00",2,"21,400,000.00",2026-03-31,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"7,000,000.00",5,"35,000,000.00",2026-03-31,Mr David,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,200,000.00",6,"7,200,000.00",2026-04-01,Ms Favour,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",2,"12,000,000.00",2026-04-03,Mr Daniel,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"9,000,000.00",2,"18,000,000.00",2026-04-03,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",3,"2,700,000.00",2026-04-03,Mr Alex,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,500,000.00",6,"21,000,000.00",2026-04-04,Mr David,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"7,000,000.00",5,"35,000,000.00",2026-04-05,Mr Daniel,Installment,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"4,000,000.00",3,"12,000,000.00",2026-04-07,Mr Samuel,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,000,000.00",1,"3,000,000.00",2026-04-08,Ms Grace,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"3,500,000.00",3,"10,500,000.00",2026-04-08,Ms Grace,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,10 years,"6,000,000.00",3,"18,000,000.00",2026-04-08,Mr Joshua,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"10,700,000.00",1,"10,700,000.00",2026-04-08,Ms Favour,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,000,000.00",1,"3,000,000.00",2026-04-09,Mr Samuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,000,000.00",10,"50,000,000.00",2026-04-10,Ms Grace,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",8,"12,000,000.00",2026-04-11,Mr Samuel,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,000,000.00",5,"10,000,000.00",2026-04-12,Ms Esther,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,10 years,"7,000,000.00",1,"7,000,000.00",2026-04-12,Mr Alex,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,3000 SQM,"5,000,000.00",1,"5,000,000.00",2026-04-12,Mr Alex,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"32,000,000.00",2,"64,000,000.00",2026-04-12,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,000,000.00",1,"5,000,000.00",2026-04-13,Ms Favour,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",5,"53,500,000.00",2026-04-13,Mr Emmanuel,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",2,"3,000,000.00",2026-04-13,Mr Alex,Installment,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,10 years,"6,000,000.00",8,"48,000,000.00",2026-04-13,Mr Peter,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"9,000,000.00",7,"63,000,000.00",2026-04-15,Ms Blessing,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",5,"7,500,000.00",2026-04-15,Ms Grace,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,000,000.00",2,"6,000,000.00",2026-04-18,Mr Emmanuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",2,"1,500,000.00",2026-04-19,Ms Victoria,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",1,"1,500,000.00",2026-04-19,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",3,"2,700,000.00",2026-04-20,Mr Peter,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",2,"3,000,000.00",2026-04-21,Ms Victoria,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"7,000,000.00",6,"42,000,000.00",2026-04-24,Mr Daniel,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,18000 SQM,"34,000,000.00",5,"170,000,000.00",2026-04-26,Ms Victoria,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",5,"40,000,000.00",2026-04-26,Mr Peter,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,500,000.00",2,"3,000,000.00",2026-04-27,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",2,"1,500,000.00",2026-04-27,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"3,500,000.00",4,"14,000,000.00",2026-04-28,Mr Joshua,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,20 years,"8,000,000.00",2,"16,000,000.00",2026-04-28,Ms Deborah,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,9000 SQM,"19,000,000.00",1,"19,000,000.00",2026-04-30,Mr Samuel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",1,"1,500,000.00",2026-04-30,Ms Favour,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",5,"50,000,000.00",2026-05-01,Ms Blessing,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,1500 SQM,"3,500,000.00",1,"3,500,000.00",2026-05-01,Ms Favour,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",8,"48,000,000.00",2026-05-02,Mr Alex,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,9000 SQM,"17,000,000.00",5,"85,000,000.00",2026-05-02,Mr Michael,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",4,"24,000,000.00",2026-05-03,Mr Alex,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"9,000,000.00",6,"54,000,000.00",2026-05-03,Mr Michael,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",4,"24,000,000.00",2026-05-04,Mr Michael,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,1500 SQM,"3,500,000.00",10,"35,000,000.00",2026-05-05,Mr David,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,000,000.00",1,"5,000,000.00",2026-05-05,Ms Grace,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"17,000,000.00",2,"34,000,000.00",2026-05-06,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"12,000,000.00",3,"36,000,000.00",2026-05-06,Mr Alex,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,1500 SQM,"3,500,000.00",3,"10,500,000.00",2026-05-07,Mr Peter,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",3,"16,500,000.00",2026-05-07,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"17,000,000.00",1,"17,000,000.00",2026-05-08,Ms Blessing,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",5,"4,500,000.00",2026-05-08,Ms Grace,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",1,"1,200,000.00",2026-05-09,Ms Blessing,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,200,000.00",8,"9,600,000.00",2026-05-09,Mr David,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,Lifetime Lease,"12,000,000.00",8,"96,000,000.00",2026-05-10,Mr Peter,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,500,000.00",1,"1,500,000.00",2026-05-10,Mr Samuel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",3,"3,600,000.00",2026-05-11,Mr David,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",2,"1,500,000.00",2026-05-13,Mr Samuel,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",1,"6,000,000.00",2026-05-14,Mr Alex,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,500,000.00",1,"1,500,000.00",2026-05-14,Ms Esther,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",2,"3,000,000.00",2026-05-15,Mr Michael,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",6,"9,000,000.00",2026-05-15,Ms Deborah,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,500 SQM,"3,500,000.00",2,"7,000,000.00",2026-05-16,Ms Esther,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,10 years,"6,000,000.00",10,"60,000,000.00",2026-05-16,Ms Favour,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"9,000,000.00",1,"9,000,000.00",2026-05-16,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",1,"9,000,000.00",2026-05-16,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"19,000,000.00",8,"152,000,000.00",2026-05-16,Mr Tofunmi,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",3,"3,600,000.00",2026-05-16,Mr Alex,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,500,000.00",5,"17,500,000.00",2026-05-16,Mr Samuel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",4,"3,000,000.00",2026-05-16,Ms Blessing,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",7,"238,000,000.00",2026-05-17,Mr Tofunmi,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"17,000,000.00",2,"34,000,000.00",2026-05-17,Mr Emmanuel,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",10,"60,000,000.00",2026-05-18,Mr Michael,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,150 SQM,"1,500,000.00",3,"4,500,000.00",2026-05-19,Mr Michael,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,9000 SQM,"17,000,000.00",4,"68,000,000.00",2026-05-19,Ms Grace,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",3,"3,600,000.00",2026-05-20,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"3,500,000.00",2,"7,000,000.00",2026-05-20,Mr Samuel,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,500 SQM,"3,500,000.00",2,"7,000,000.00",2026-05-20,Ms Esther,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,200,000.00",1,"1,200,000.00",2026-05-21,Mr Daniel,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,500 SQM,"3,500,000.00",3,"10,500,000.00",2026-05-21,Mr Tofunmi,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,200,000.00",2,"2,400,000.00",2026-05-22,Mr Tofunmi,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,250 SQM,"750,000.00",5,"3,750,000.00",2026-05-22,Mr Emmanuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,000,000.00",6,"18,000,000.00",2026-05-22,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",2,"2,400,000.00",2026-05-23,Ms Victoria,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",6,"15,000,000.00",2026-05-23,Ms Victoria,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,500,000.00",4,"22,000,000.00",2026-05-23,Mr Alex,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,000,000.00",6,"18,000,000.00",2026-05-23,Mr Samuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",7,"6,300,000.00",2026-05-24,Mr Tofunmi,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",2,"2,400,000.00",2026-05-25,Mr Emmanuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",6,"33,000,000.00",2026-05-26,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"4,000,000.00",5,"20,000,000.00",2026-05-27,Ms Esther,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,18000 SQM,"34,000,000.00",5,"170,000,000.00",2026-05-27,Ms Victoria,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"7,000,000.00",2,"14,000,000.00",2026-05-27,Mr Joshua,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,150 SQM,"1,500,000.00",1,"1,500,000.00",2026-05-28,Mr Michael,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,6000 SQM,"10,700,000.00",1,"10,700,000.00",2026-05-28,Mr David,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",4,"3,600,000.00",2026-05-28,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",4,"4,800,000.00",2026-05-28,Mr Daniel,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,20 years,"8,000,000.00",5,"40,000,000.00",2026-05-29,Mr Samuel,Installment,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"3,500,000.00",4,"14,000,000.00",2026-05-29,Mr Joshua,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,000,000.00",1,"2,000,000.00",2026-05-29,Mr Joshua,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,500 SQM,"3,500,000.00",3,"10,500,000.00",2026-05-30,Mr Tofunmi,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,500 SQM,"1,200,000.00",4,"4,800,000.00",2026-05-30,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",5,"45,000,000.00",2026-05-31,Mr Samuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,500,000.00",8,"28,000,000.00",2026-06-01,Mr Emmanuel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"17,000,000.00",3,"51,000,000.00",2026-06-01,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",1,"1,500,000.00",2026-06-01,Mr Samuel,Installment,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,20 years,"8,000,000.00",4,"32,000,000.00",2026-06-03,Mr David,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,10 years,"7,000,000.00",4,"28,000,000.00",2026-06-04,Mr Peter,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,200,000.00",2,"2,400,000.00",2026-06-04,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",2,"5,000,000.00",2026-06-04,Mr Joshua,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,500,000.00",2,"7,000,000.00",2026-06-05,Ms Victoria,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",5,"40,000,000.00",2026-06-05,Mr Joshua,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,9000 SQM,"19,000,000.00",10,"190,000,000.00",2026-06-06,Mr Michael,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"17,000,000.00",6,"102,000,000.00",2026-06-07,Mr Daniel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",1,"5,500,000.00",2026-06-08,Mr Emmanuel,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"7,000,000.00",2,"14,000,000.00",2026-06-08,Ms Deborah,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"3,500,000.00",7,"24,500,000.00",2026-06-08,Ms Deborah,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,Lifetime Lease,"12,000,000.00",2,"24,000,000.00",2026-06-08,Ms Favour,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,20 years,"8,000,000.00",7,"56,000,000.00",2026-06-08,Ms Blessing,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"10,700,000.00",1,"10,700,000.00",2026-06-10,Mr Tofunmi,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"32,000,000.00",1,"32,000,000.00",2026-06-16,Mr Alex,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",1,"9,000,000.00",2026-06-17,Mr Samuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"32,000,000.00",4,"128,000,000.00",2026-06-18,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",1,"900,000.00",2026-06-19,Mr Michael,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",1,"900,000.00",2026-06-20,Ms Victoria,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",3,"32,100,000.00",2026-06-20,Ms Deborah,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",3,"7,500,000.00",2026-06-20,Mr Alex,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,500,000.00",2,"7,000,000.00",2026-06-20,Mr Samuel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",1,"34,000,000.00",2026-06-21,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,500,000.00",1,"3,500,000.00",2026-06-22,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",4,"136,000,000.00",2026-06-22,Mr Tofunmi,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,000,000.00",2,"10,000,000.00",2026-06-23,Ms Blessing,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"7,000,000.00",2,"14,000,000.00",2026-06-23,Mr Peter,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,1500 SQM,"3,000,000.00",5,"15,000,000.00",2026-06-24,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",1,"1,500,000.00",2026-06-25,Mr Emmanuel,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"7,000,000.00",3,"21,000,000.00",2026-06-26,Mr Emmanuel,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,10 years,"7,000,000.00",2,"14,000,000.00",2026-06-26,Mr Michael,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,9000 SQM,"19,000,000.00",5,"95,000,000.00",2026-06-27,Ms Deborah,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",7,"5,250,000.00",2026-06-28,Mr Samuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",5,"6,000,000.00",2026-06-28,Ms Favour,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,000,000.00",3,"9,000,000.00",2026-06-30,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"4,000,000.00",1,"4,000,000.00",2026-06-30,Mr Daniel,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,500,000.00",1,"3,500,000.00",2026-06-30,Ms Grace,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",6,"64,200,000.00",2026-07-01,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"17,000,000.00",3,"51,000,000.00",2026-07-03,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,500,000.00",1,"3,500,000.00",2026-07-05,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",4,"6,000,000.00",2026-07-06,Mr Alex,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",1,"1,500,000.00",2026-07-06,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",4,"22,000,000.00",2026-07-06,Mr Samuel,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"4,000,000.00",3,"12,000,000.00",2026-07-07,Ms Deborah,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,500 SQM,"1,500,000.00",4,"6,000,000.00",2026-07-08,Mr Alex,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",2,"3,000,000.00",2026-07-09,Ms Grace,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"32,000,000.00",6,"192,000,000.00",2026-07-10,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",1,"900,000.00",2026-07-10,Ms Victoria,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",2,"2,400,000.00",2026-07-11,Ms Grace,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,000,000.00",2,"10,000,000.00",2026-07-11,Mr David,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",3,"4,500,000.00",2026-07-12,Ms Esther,Installment,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,10 years,"7,000,000.00",8,"56,000,000.00",2026-07-13,Mr Joshua,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,200,000.00",6,"7,200,000.00",2026-07-14,Ms Grace,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",2,"1,500,000.00",2026-07-14,Ms Blessing,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",5,"7,500,000.00",2026-07-15,Ms Deborah,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",5,"45,000,000.00",2026-07-15,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"12,000,000.00",1,"12,000,000.00",2026-07-15,Mr Michael,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,1500 SQM,"3,500,000.00",1,"3,500,000.00",2026-07-15,Mr Michael,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",3,"3,600,000.00",2026-07-16,Mr David,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,000,000.00",1,"5,000,000.00",2026-07-16,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",1,"9,000,000.00",2026-07-17,Ms Grace,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",2,"12,000,000.00",2026-07-22,Ms Deborah,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,250 SQM,"2,000,000.00",5,"10,000,000.00",2026-07-23,Mr Peter,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,6000 SQM,"9,000,000.00",6,"54,000,000.00",2026-07-24,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",4,"24,000,000.00",2026-07-24,Mr Samuel,Outright Plan,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,20 years,"7,000,000.00",5,"35,000,000.00",2026-07-25,Ms Grace,Outright Plan,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,20 years,"8,000,000.00",3,"24,000,000.00",2026-07-25,Mr Joshua,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,10 years,"7,000,000.00",8,"56,000,000.00",2026-07-26,Mr Peter,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,500,000.00",4,"6,000,000.00",2026-07-26,Ms Grace,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",1,"750,000.00",2026-07-28,Mr Samuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",1,"10,700,000.00",2026-07-28,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",1,"10,000,000.00",2026-07-29,Mr David,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"3,500,000.00",2,"7,000,000.00",2026-07-29,Mr Joshua,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,000,000.00",3,"15,000,000.00",2026-07-29,Mr Samuel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"32,000,000.00",1,"32,000,000.00",2026-07-30,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",2,"1,800,000.00",2026-07-30,Mr David,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",1,"2,500,000.00",2026-08-01,Ms Favour,Installment,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",2,"20,000,000.00",2026-08-01,Mr Samuel,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,200,000.00",1,"1,200,000.00",2026-08-02,Mr Michael,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",2,"5,000,000.00",2026-08-03,Ms Deborah,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,200,000.00",2,"2,400,000.00",2026-08-04,Mr Peter,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,9000 SQM,"17,000,000.00",6,"102,000,000.00",2026-08-05,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",6,"33,000,000.00",2026-08-05,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",4,"6,000,000.00",2026-08-05,Mr Joshua,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,500,000.00",1,"1,500,000.00",2026-08-07,Mr Samuel,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,500,000.00",6,"21,000,000.00",2026-08-07,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",7,"10,500,000.00",2026-08-07,Mr Peter,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,000,000.00",1,"2,000,000.00",2026-08-08,Mr Alex,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,10 years,"7,000,000.00",1,"7,000,000.00",2026-08-09,Mr Alex,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,3000 SQM,"5,500,000.00",1,"5,500,000.00",2026-08-09,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",1,"34,000,000.00",2026-08-10,Mr Emmanuel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",4,"6,000,000.00",2026-08-11,Mr Alex,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",1,"5,500,000.00",2026-08-12,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,000,000.00",1,"3,000,000.00",2026-08-12,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"19,000,000.00",7,"133,000,000.00",2026-08-13,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",4,"4,800,000.00",2026-08-13,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",3,"16,500,000.00",2026-08-13,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",1,"1,200,000.00",2026-08-14,Mr Joshua,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,10 years,"7,000,000.00",6,"42,000,000.00",2026-08-14,Mr Joshua,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,3000 SQM,"5,000,000.00",3,"15,000,000.00",2026-08-14,Mr Samuel,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",2,"2,400,000.00",2026-08-14,Mr Joshua,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,500,000.00",2,"11,000,000.00",2026-08-15,Ms Grace,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",2,"68,000,000.00",2026-08-15,Mr Michael,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",2,"2,400,000.00",2026-08-15,Mr David,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,000,000.00",1,"3,000,000.00",2026-08-15,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",1,"1,500,000.00",2026-08-16,Mr Michael,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,500 SQM,"3,500,000.00",2,"7,000,000.00",2026-08-16,Mr David,Outright Plan,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,10 years,"7,000,000.00",3,"21,000,000.00",2026-08-16,Mr Joshua,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,3000 SQM,"5,000,000.00",5,"25,000,000.00",2026-08-18,Mr Daniel,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",1,"1,500,000.00",2026-08-18,Ms Victoria,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,250 SQM,"750,000.00",1,"750,000.00",2026-08-18,Mr Alex,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"19,000,000.00",5,"95,000,000.00",2026-08-18,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",1,"2,500,000.00",2026-08-19,Ms Favour,Installment,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",2,"20,000,000.00",2026-08-20,Mr Tofunmi,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,3000 SQM,"5,000,000.00",2,"10,000,000.00",2026-08-21,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",1,"10,700,000.00",2026-08-21,Mr Samuel,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,250 SQM,"2,500,000.00",3,"7,500,000.00",2026-08-22,Ms Favour,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,500 SQM,"3,500,000.00",5,"17,500,000.00",2026-08-23,Mr Tofunmi,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,000,000.00",5,"15,000,000.00",2026-08-24,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"4,000,000.00",8,"32,000,000.00",2026-08-24,Mr Peter,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,250 SQM,"900,000.00",1,"900,000.00",2026-08-25,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",3,"102,000,000.00",2026-08-25,Mr Michael,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",1,"1,200,000.00",2026-08-26,Ms Favour,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,500,000.00",4,"10,000,000.00",2026-08-26,Ms Victoria,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,200,000.00",1,"1,200,000.00",2026-08-26,Mr Emmanuel,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,500 SQM,"1,500,000.00",1,"1,500,000.00",2026-08-26,Mr Michael,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,000,000.00",4,"12,000,000.00",2026-08-27,Ms Favour,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",5,"45,000,000.00",2026-08-28,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"32,000,000.00",3,"96,000,000.00",2026-08-28,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",5,"40,000,000.00",2026-08-29,Mr David,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"10,700,000.00",1,"10,700,000.00",2026-08-29,Ms Favour,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",2,"12,000,000.00",2026-08-29,Mr Tofunmi,Outright Plan,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,20 years,"7,000,000.00",2,"14,000,000.00",2026-08-30,Mr Emmanuel,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,250 SQM,"2,000,000.00",1,"2,000,000.00",2026-08-31,Ms Victoria,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,000,000.00",3,"6,000,000.00",2026-08-31,Ms Deborah,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,500,000.00",1,"3,500,000.00",2026-08-31,Ms Victoria,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",1,"6,000,000.00",2026-09-01,Mr Michael,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,250 SQM,"2,500,000.00",1,"2,500,000.00",2026-09-01,Ms Blessing,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,250 SQM,"750,000.00",1,"750,000.00",2026-09-04,Mr Daniel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,000,000.00",1,"3,000,000.00",2026-09-04,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"4,000,000.00",7,"28,000,000.00",2026-09-05,Mr David,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,6000 SQM,"9,000,000.00",8,"72,000,000.00",2026-09-06,Mr Daniel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",2,"2,400,000.00",2026-09-06,Mr Daniel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,500,000.00",4,"6,000,000.00",2026-09-06,Mr Michael,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",4,"36,000,000.00",2026-09-07,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",4,"3,600,000.00",2026-09-08,Mr Michael,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",5,"6,000,000.00",2026-09-08,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"19,000,000.00",2,"38,000,000.00",2026-09-09,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"3,500,000.00",2,"7,000,000.00",2026-09-13,Ms Esther,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,500,000.00",2,"11,000,000.00",2026-09-13,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",1,"10,000,000.00",2026-09-13,Mr Michael,Outright Plan,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,20 years,"7,000,000.00",3,"21,000,000.00",2026-09-15,Ms Favour,Outright Plan,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",3,"30,000,000.00",2026-09-17,Ms Grace,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,150 SQM,"1,200,000.00",2,"2,400,000.00",2026-09-17,Mr Michael,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,500,000.00",5,"27,500,000.00",2026-09-17,Ms Deborah,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",1,"5,500,000.00",2026-09-18,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",4,"4,800,000.00",2026-09-18,Mr Samuel,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,6000 SQM,"10,700,000.00",1,"10,700,000.00",2026-09-21,Mr Michael,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",1,"900,000.00",2026-09-23,Mr David,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",5,"7,500,000.00",2026-09-24,Ms Grace,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,200,000.00",2,"2,400,000.00",2026-09-24,Mr David,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,9000 SQM,"19,000,000.00",8,"152,000,000.00",2026-09-26,Mr Michael,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"17,000,000.00",1,"17,000,000.00",2026-09-27,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",5,"40,000,000.00",2026-09-27,Mr Joshua,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,20 years,"8,000,000.00",4,"32,000,000.00",2026-09-27,Mr Joshua,Installment,Abeokuta Alabata FUNAAB
+KINGS COURT,250 SQM,"2,500,000.00",3,"7,500,000.00",2026-09-27,Mr Tofunmi,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,500,000.00",4,"22,000,000.00",2026-09-29,Ms Deborah,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",5,"40,000,000.00",2026-09-29,Ms Deborah,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,6000 SQM,"9,000,000.00",6,"54,000,000.00",2026-10-01,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",1,"1,500,000.00",2026-10-02,Ms Victoria,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,18000 SQM,"32,000,000.00",1,"32,000,000.00",2026-10-02,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,200,000.00",3,"3,600,000.00",2026-10-02,Mr Samuel,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,500 SQM,"1,200,000.00",5,"6,000,000.00",2026-10-03,Ms Grace,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",7,"38,500,000.00",2026-10-03,Ms Blessing,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"7,000,000.00",4,"28,000,000.00",2026-10-04,Mr Peter,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,250 SQM,"2,000,000.00",8,"16,000,000.00",2026-10-04,Ms Esther,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,18000 SQM,"32,000,000.00",10,"320,000,000.00",2026-10-06,Mr David,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",4,"3,000,000.00",2026-10-07,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"32,000,000.00",5,"160,000,000.00",2026-10-09,Mr Tofunmi,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",2,"11,000,000.00",2026-10-09,Mr Samuel,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",2,"20,000,000.00",2026-10-09,Mr Joshua,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,150 SQM,"1,200,000.00",4,"4,800,000.00",2026-10-10,Mr Emmanuel,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,200,000.00",3,"3,600,000.00",2026-10-11,Ms Grace,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,18000 SQM,"32,000,000.00",4,"128,000,000.00",2026-10-11,Mr Alex,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"7,000,000.00",6,"42,000,000.00",2026-10-11,Mr Alex,Installment,Abeokuta Alabata FUNAAB
+TREC AGRO,9000 SQM,"19,000,000.00",1,"19,000,000.00",2026-10-11,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"7,000,000.00",2,"14,000,000.00",2026-10-12,Mr Samuel,Installment,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"3,500,000.00",8,"28,000,000.00",2026-10-12,Ms Blessing,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,500 SQM,"1,500,000.00",2,"3,000,000.00",2026-10-13,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,18000 SQM,"34,000,000.00",4,"136,000,000.00",2026-10-13,Mr Tofunmi,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"7,000,000.00",2,"14,000,000.00",2026-10-14,Ms Favour,Installment,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"4,000,000.00",2,"8,000,000.00",2026-10-15,Ms Victoria,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,500 SQM,"1,500,000.00",4,"6,000,000.00",2026-10-16,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,500,000.00",4,"14,000,000.00",2026-10-16,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",4,"3,600,000.00",2026-10-17,Ms Deborah,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",1,"10,000,000.00",2026-10-18,Ms Favour,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,150 SQM,"1,500,000.00",2,"3,000,000.00",2026-10-18,Mr Michael,Installment,Abeokuta Alabata Harmony Estate
+Iya Jimi Residence,20 years,"7,000,000.00",1,"7,000,000.00",2026-10-18,Mr Joshua,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,200,000.00",2,"2,400,000.00",2026-10-19,Mr Daniel,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",2,"1,500,000.00",2026-10-20,Mr David,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",1,"10,700,000.00",2026-10-20,Mr Michael,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"9,000,000.00",3,"27,000,000.00",2026-10-21,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"7,000,000.00",5,"35,000,000.00",2026-10-21,Mr Daniel,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,10 years,"6,000,000.00",6,"36,000,000.00",2026-10-22,Ms Esther,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,200,000.00",8,"9,600,000.00",2026-10-22,Mr Michael,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",7,"42,000,000.00",2026-10-22,Ms Blessing,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,3000 SQM,"5,000,000.00",2,"10,000,000.00",2026-10-23,Ms Deborah,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"7,000,000.00",2,"14,000,000.00",2026-10-23,Mr Daniel,Installment,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"4,000,000.00",2,"8,000,000.00",2026-10-24,Mr Samuel,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,000,000.00",1,"5,000,000.00",2026-10-24,Mr Michael,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"750,000.00",8,"6,000,000.00",2026-10-24,Mr Emmanuel,Outright Plan,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",2,"16,000,000.00",2026-10-26,Ms Blessing,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,20 years,"7,000,000.00",6,"42,000,000.00",2026-10-26,Ms Deborah,Outright Plan,Abeokuta Alabata FUNAAB
+KINGS COURT,250 SQM,"2,000,000.00",1,"2,000,000.00",2026-10-26,Mr Alex,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,150 SQM,"1,500,000.00",3,"4,500,000.00",2026-10-26,Ms Esther,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,250 SQM,"900,000.00",2,"1,800,000.00",2026-10-27,Mr Emmanuel,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"8,000,000.00",2,"16,000,000.00",2026-10-27,Ms Deborah,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,20 years,"8,000,000.00",3,"24,000,000.00",2026-10-28,Ms Deborah,Installment,Abeokuta Alabata FUNAAB
+KINGS COURT,150 SQM,"1,500,000.00",2,"3,000,000.00",2026-10-28,Mr Michael,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,500 SQM,"1,500,000.00",8,"12,000,000.00",2026-10-28,Ms Grace,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"7,000,000.00",1,"7,000,000.00",2026-10-29,Ms Esther,Installment,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,Lifetime Lease,"10,000,000.00",2,"20,000,000.00",2026-10-29,Ms Deborah,Outright Plan,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,20 years,"7,000,000.00",1,"7,000,000.00",2026-10-30,Mr Samuel,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,3000 SQM,"5,000,000.00",4,"20,000,000.00",2026-10-31,Mr David,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,250 SQM,"900,000.00",6,"5,400,000.00",2026-10-31,Ms Grace,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,10 years,"6,000,000.00",7,"42,000,000.00",2026-10-31,Mr Michael,Outright Plan,Abeokuta Alabata FUNAAB
+Iya Jimi Residence,Lifetime Lease,"12,000,000.00",5,"60,000,000.00",2026-11-01,Mr Emmanuel,Installment,Abeokuta Alabata FUNAAB
+KINGS COURT,500 SQM,"3,500,000.00",2,"7,000,000.00",2026-11-02,Ms Deborah,Outright Plan,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,500,000.00",1,"2,500,000.00",2026-11-02,Mr Tofunmi,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,1500 SQM,"3,000,000.00",5,"15,000,000.00",2026-11-05,Mr Peter,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",5,"7,500,000.00",2026-11-05,Ms Favour,Installment,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,000,000.00",3,"15,000,000.00",2026-11-06,Ms Esther,Outright Plan,Abeokuta Alabata Oderinde
+KINGS COURT,500 SQM,"4,000,000.00",2,"8,000,000.00",2026-11-07,Ms Deborah,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,000,000.00",4,"8,000,000.00",2026-11-08,Ms Blessing,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,6000 SQM,"10,700,000.00",2,"21,400,000.00",2026-11-09,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",4,"42,800,000.00",2026-11-10,Ms Victoria,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,3000 SQM,"5,500,000.00",1,"5,500,000.00",2026-11-11,Mr Tofunmi,Installment,Abeokuta Alabata Oderinde
+KINGS COURT,150 SQM,"1,500,000.00",7,"10,500,000.00",2026-11-12,Mr Michael,Installment,Abeokuta Alabata Harmony Estate
+KINGS COURT,250 SQM,"2,000,000.00",2,"4,000,000.00",2026-11-13,Mr Alex,Outright Plan,Abeokuta Alabata Harmony Estate
+TREC AGRO,3000 SQM,"5,500,000.00",4,"22,000,000.00",2026-11-14,Mr Samuel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"19,000,000.00",3,"57,000,000.00",2026-11-14,Mr Joshua,Installment,Abeokuta Alabata Oderinde
+Iya Jimi Residence,20 years,"7,000,000.00",1,"7,000,000.00",2026-11-15,Mr David,Outright Plan,Abeokuta Alabata FUNAAB
+TREC AGRO,500 SQM,"1,500,000.00",7,"10,500,000.00",2026-11-15,Ms Deborah,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"19,000,000.00",4,"76,000,000.00",2026-11-16,Mr Samuel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,1500 SQM,"3,000,000.00",5,"15,000,000.00",2026-11-17,Mr Michael,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,9000 SQM,"19,000,000.00",4,"76,000,000.00",2026-11-18,Mr Daniel,Installment,Abeokuta Alabata Oderinde
+TREC AGRO,500 SQM,"1,200,000.00",5,"6,000,000.00",2026-11-18,Mr Joshua,Outright Plan,Abeokuta Alabata Oderinde
+TREC AGRO,6000 SQM,"10,700,000.00",2,"21,400,000.00",2026-11-18,Mr Michael,Installment,Abeokuta Alabata Oderinde
