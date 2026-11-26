@@ -5,5 +5,5 @@ Real estate sales analysis using Excel and Apache Superset to explore revenue pe
 
 Below is the interactive dashboard created using Apache Superset.
 
-! [Real Estate Sales Dashboard](Visualizations/real_estate_dashboard.png)
+! [REAL_ESTATE_ANALYSIS.](Visualizations/real_estate_dashboard.png)
 
